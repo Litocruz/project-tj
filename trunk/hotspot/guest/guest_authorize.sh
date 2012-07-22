@@ -1,8 +1,8 @@
 #!/bin/sh
 
-username=admin
-password=admin
-baseurl=https://192.168.20.2:8443
+username=root
+password=admin12
+baseurl=https://192.168.2.109:8443
 
 if [ $# -lt 2 ] ; then
     echo "Usage: $0 <mac> <minutes>"
