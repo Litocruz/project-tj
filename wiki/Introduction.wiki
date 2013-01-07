@@ -3,9 +3,10 @@
 = Introduction =
 โครงการนี้ประกอบด้วย คู่มือการออกแบบ และ คู่มือใช้งาน จัดเก็บภายในไดเร็คทอรี่ doc และ ซอสโค๊ดที่เกิดจากการพัฒนา 
 
-= Details =
+= ต้องการให้ ADSL ที่บ้านทำไรได้บ้าง =
+ในมุมมองผู้ใช้บริการ ต้องการให้ ADSL ทำอะไรได้บ้าง
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= ต้องการให้ ADSL ที่ให้บริการทำไรได้บ้าง =
+มุมมองผู้ให้บริการ มี 2 กลุ่ม ได้แก่ เจ้าของเครือข่าย(ISP) และ ผู้ให้บริการ(Agency)
+== เจ้าของเครือข่าย(ISP) ==
+== ผู้ให้บริการ(Agency) == 
